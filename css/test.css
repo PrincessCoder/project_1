@@ -1,8 +1,12 @@
-<style type="text/css">
-h1{
-font-size: 30px;
-color: teal;
+body{
+	background-color: LIGHTGOLDENRODYELLOW;
 }
+
+h1{
+	font-size: 30px;
+	color: teal;
+}
+
 h2{
 	font-size: 20px;
 	color: red;
@@ -11,4 +15,3 @@ h2{
 .big{
 	font-size: 60px;
 }
-</style>
